@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "fe797f463230813eb0694bf2",
+  "owner": "amjgaa",
+  "repo": "page-8abeb404e299c334110ee781",
+  "title": "免费订阅分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8abeb404e299c334110ee781",
+      "a": "云图小镇",
+      "b": "免费订阅分享",
+      "entity": "云图小镇",
+      "brand": "免费订阅分享",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a188b2b6ed77f470e01069344bdc747f0e266b2b5ea1a38d2600ea014582b6d4",
+      "content": {
+        "primary_entity": "云图小镇",
+        "keyword1": "云图小镇",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，订阅配置一次通投多端。",
+          "AI_CLIENTS_TITLE": "客户端适配设备",
+          "AI_CLOSING_TEXT": "挑好设备与周期，云图小镇订阅即可开始配置。",
+          "AI_CLOSING_TITLE": "轻松选定云图小镇套餐",
+          "AI_DESCRIPTION": "，提供按月与按年两种订阅周期，基础版每月 100GB 流量并支持 3 台设备，旗舰版每月 300GB 流量并支持 5 台设备，团队版每月 1000GB 流量并支持 20 台设备，覆盖个人、家庭与小型团队使用需求。",
+          "AI_FEATURES_INTRO": "从流量、设备数和周期三处入手，快速匹配适合的套餐。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "100GB 适合单人日常，300GB 兼顾多设备与流媒体，1000GB 满足团队共享。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备总数挑。",
+          "AI_FEATURE_TEXT_3": "月付随时调整，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850 更省。",
+          "AI_FEATURE_TITLE_1": "看流量需求",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TITLE_3": "看订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到投入使用。",
+          "AI_GUIDE_TITLE": "开通云图小镇流程",
+          "AI_HERO_INTRO": "云图小镇汇集多档海外加速套餐，覆盖轻量浏览、多设备流媒体与团队重度使用场景，按月或按年订阅后即可根据设备导入订阅并开始使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案降低长期使用成本",
+          "AI_HIGHLIGHT_3": "多设备同时在线便于全家共享",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 100GB 3 台，旗舰版 ¥35/月 300GB 5 台，团队版 ¥85/月 1000GB 20 台，年付更省。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "按日常流量与设备数量在三档套餐中选定一档并完成订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数、流量与周期要求，确认适配当前设备。",
+          "AI_STEP_TEXT_3": "根据设备对应的客户端文档导入订阅信息，完成配置即可使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云图小镇多端订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "云图小镇基础版支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合个人手机与电脑日常使用。如果家里设备较多，可考虑旗舰版的 5 台设备额度。",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版在流量上有什么区别？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 极速流量，团队版每月 1000GB，后者还含 VIP 专属高带宽节点和企业定制路由，适合团队共享或高用量场景。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，年付 ¥150/年，相当于十个月费用；旗舰版年付 ¥350/年，团队版年付 ¥850/年，均比按月支付划算。",
+          "AI_FAQ_QUESTION_4": "订阅可以跨设备使用吗？",
+          "AI_FAQ_ANSWER_4": "订阅按在线设备数量计算，同一账号可在额度内的多台设备上使用。超出设备数限制时，新设备可能无法同时连接，建议按需选择版本。",
+          "AI_FAQ_QUESTION_5": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_5": "先在设备上安装对应客户端，再按客户端文档中的指引复制订阅链接或扫码导入，保存后即可在节点列表中选择线路连接。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8c06143520d312d9c8473aa2ede72cd6959f1405108a1f094336b158217f8726",
+    "sitemap.xml": "92ec4fd8cd049ab19ce6b0d7d7ad0607bec269030ef0f0ba5b570a9a1d4b646e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "cb4cd3e86e15e47dc96ca71b313732d6fce548717ecf3965a32645babc170b91"
+}
